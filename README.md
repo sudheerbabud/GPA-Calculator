@@ -1,0 +1,1 @@
+This Python project involves creating a GPA calculator that allows users to input their course grades and corresponding credit hours. The program calculates the Grade Point Average (GPA) based on these inputs, providing an accurate measure of the user's academic performance. The project includes functionality to handle different grading scales and validate user input.
